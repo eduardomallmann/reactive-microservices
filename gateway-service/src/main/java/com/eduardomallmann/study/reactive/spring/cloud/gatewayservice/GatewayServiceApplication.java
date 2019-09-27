@@ -1,4 +1,4 @@
-package com.eduardomallmann.study.okta.reactive.spring.cloud.gatewayservice;
+package com.eduardomallmann.study.reactive.spring.cloud.gatewayservice;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
