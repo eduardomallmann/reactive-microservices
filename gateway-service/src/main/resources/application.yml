@@ -1,6 +1,3 @@
 route:
   car: http://${CAR_HOST:localhost:8081}
   fave: http://${FAVE_CAR_HOST:localhost:8082}
-
-server:
-  port: 8080

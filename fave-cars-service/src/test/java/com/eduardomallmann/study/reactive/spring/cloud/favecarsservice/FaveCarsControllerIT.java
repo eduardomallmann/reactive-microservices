@@ -19,7 +19,7 @@ import static com.github.tomakehurst.wiremock.client.WireMock.urlMatching;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 @AutoConfigureWebTestClient
-@AutoConfigureWireMock
+@AutoConfigureWireMock(port = 0)
 class FaveCarsControllerIT {
 
     @Autowired
