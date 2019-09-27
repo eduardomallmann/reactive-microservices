@@ -1,0 +1,6 @@
+server:
+  port: 8082
+
+routes:
+  uri:
+    cars: ${CAR_HOST:localhost:8080}/cars
