@@ -1,4 +1,4 @@
-package com.eduardomallmann.study.okta.reactive.spring.cloud.carservice;
+package com.eduardomallmann.study.reactive.spring.cloud.carservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
