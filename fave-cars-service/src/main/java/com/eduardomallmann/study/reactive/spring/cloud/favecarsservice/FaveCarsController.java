@@ -1,4 +1,4 @@
-package com.eduardomallmann.study.okta.reactive.spring.cloud.favecarsservice;
+package com.eduardomallmann.study.reactive.spring.cloud.favecarsservice;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
